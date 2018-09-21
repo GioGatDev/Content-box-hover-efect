@@ -84,3 +84,27 @@ body {
     padding: 0;
     color: #fff;
 }
+
+.container .box:nth-child(1) .icon {
+    background: #4caf50;
+}
+
+.container .box:nth-child(1) {
+    background: rgb(96, 226, 107);
+}
+
+.container .box:nth-child(2) .icon {
+    background: rgb(96, 185, 226);
+}
+
+.container .box:nth-child(2) {
+    background: rgb(24, 161, 240);
+}
+
+.container .box:nth-child(3) .icon {
+    background: rgb(67, 113, 197);
+}
+
+.container .box:nth-child(3) {
+    background: rgb(116, 129, 243);
+}
